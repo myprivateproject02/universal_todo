@@ -15,3 +15,5 @@ class LoginViewModel extends BaseModel {
     notifyListeners();
   }
 }
+
+//Navigator.of(context).pushNamed(RoutePaths.SecondScreen, arguments: event);
